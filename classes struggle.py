@@ -32,6 +32,7 @@ for i in range(5):
     print("You got :",candy[3],"M&Ms")
     print("You got :",candy[4],"Sour Patch Kids")
     print("You got rock")
+    print(candy)
    
 
 
